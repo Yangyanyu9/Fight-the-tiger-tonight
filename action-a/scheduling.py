@@ -1,6 +1,6 @@
 ENTRYPOINT ["/entrypoint.sh"]
 #sum1=0
-import FJSP as NSGA-II
+from main_algorithm import NSGA-II
 k=1000
 for i in range(1):
     import datetime
