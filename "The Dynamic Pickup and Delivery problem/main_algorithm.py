@@ -21,7 +21,7 @@
 import traceback
 
 from src.utils.logging_engine import logger
-from algorithm.new_algorithm1 import scheduling
+from branch and bound algorithm.new_algorithm1 import scheduling
 
 if __name__ == '__main__':
     try:
